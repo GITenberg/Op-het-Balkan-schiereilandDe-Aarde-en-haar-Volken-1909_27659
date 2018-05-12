@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32828'
     url: http://www.gutenberg.org/2009/agents/32828
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27659#Op-het-Balkan-schiereilandDe-Aarde-en-haar-Volken-1909
 gutenberg_issued: '2008-12-29'
 gutenberg_type: Text
 identifiers:
